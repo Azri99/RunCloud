@@ -2,4 +2,4 @@
 Software Engineer Internship [RunCloud]
 
 ## The Output
-![image](img/Capture.png?raw=true)
+![image](https://raw.githubusercontent.com/Azri99/RunCloud/master/img/Capture.PNG)
